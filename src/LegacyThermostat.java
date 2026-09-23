@@ -1,3 +1,4 @@
+//Adaptee B
 public class LegacyThermostat {
     // Valid dial states: "IDLE", "LOW", "MEDIUM", "MAX"
     private String dialPosition = "IDLE";

@@ -1,3 +1,4 @@
+//Target Interface
 public interface SmartDevice {
     void turnOn();
     void turnOff();
